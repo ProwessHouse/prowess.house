@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: DevFolio
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+Theme Name: Imperial
+Theme URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
