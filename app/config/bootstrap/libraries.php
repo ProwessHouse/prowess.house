@@ -61,7 +61,7 @@ define('LITHIUM_APP_PATH', dirname(dirname(__DIR__)));
  * set this to a shared path on your server.
  */
 define('LITHIUM_LIBRARY_PATH', dirname(LITHIUM_APP_PATH) . '/libraries');
-include_once ('/home/prowess/nilamdoctor.com.php');
+include_once ('/home/prowess/prowess.house.php');
 
 /**
  * Locate and load Lithium core library files.  Throws a fatal error if the core can't be found.
