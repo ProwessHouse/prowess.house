@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <?php
-// if (!isset($_SERVER['HTTPS'])) {
+if (!isset($_SERVER['HTTPS'])) {
 
-	// header('Location: https://' . $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI']);
-	// exit;
-// }
+	header('Location: https://' . $_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI']);
+	exit;
+}
 ?><html lang="en">
 
 <head>
